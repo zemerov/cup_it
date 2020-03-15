@@ -1,0 +1,1 @@
+manual.ipynb содержит графики по данным из таблицы tiny_data.xlsx
